@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mb-view/internal/literals"
-	"github.com/mb-view/internal/models"
+	"github.com/Chandan94f/mb-view/internal/literals"
+	"github.com/Chandan94f/mb-view/internal/models"
 )
 
 func (c *Controller) addStudent(w http.ResponseWriter, r *http.Request) {

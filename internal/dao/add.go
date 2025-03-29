@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"github.com/mb-view/internal/models"
-	"github.com/mb-view/internal/utility/logger"
+	"github.com/Chandan94f/mb-utility/utility/logger"
+	"github.com/Chandan94f/mb-view/internal/models"
 )
 
 type dao struct {

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"log"
 	"net/http"
-	// "github.com/mb-view/internal/utility/authentication"
-	// errorutil "github.com/mb-view/internal/utility/error-util"
+	// "github.com/Chandan94f/mb-view/internal/utility/authentication"
+	// errorutil "github.com/Chandan94f/mb-view/internal/utility/error-util"
 )
 
 // type Response struct {

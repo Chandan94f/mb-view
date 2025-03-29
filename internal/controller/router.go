@@ -1,9 +1,9 @@
 package controller
 
 import (
-	// "github.com/mb-view/internal/controller"
-	"github.com/mb-view/internal/literals"
-	"github.com/mb-view/internal/models"
+	// "github.com/Chandan94f/mb-view/internal/controller"
+	"github.com/Chandan94f/mb-view/internal/literals"
+	"github.com/Chandan94f/mb-view/internal/models"
 
 	"net/http"
 

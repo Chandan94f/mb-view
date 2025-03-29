@@ -1,6 +1,6 @@
 package dao
 
-import "github.com/mb-view/internal/models"
+import "github.com/Chandan94f/mb-view/internal/models"
 
 type DaoService interface {
 	AddStudent(request models.AddStudentRequest) (models.AddStudentResponse, error)

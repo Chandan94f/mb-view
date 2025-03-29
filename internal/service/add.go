@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/mb-view/internal/models"
+	"github.com/Chandan94f/mb-view/internal/models"
 )
 
 // // AddStudent implements Service.

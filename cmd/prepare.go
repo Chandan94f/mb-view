@@ -5,13 +5,16 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mb-view/internal/controller"
-	"github.com/mb-view/internal/dao"
-	"github.com/mb-view/internal/service"
-	"github.com/mb-view/internal/utility/logger"
-	response "github.com/mb-view/internal/utility/response"
+	"github.com/Chandan94f/mb-view/internal/controller"
+	"github.com/Chandan94f/mb-view/internal/dao"
+	"github.com/Chandan94f/mb-view/internal/service"
 
-	// xyz "github.com/Chandan94f/mb-utility/utility/response"
+	// "github.com/Chandan94f/mb-view/internal/utility/logger"
+
+	// response "github.com/Chandan94f/mb-view/internal/utility/response"
+	"github.com/Chandan94f/mb-utility/utility/logger"
+
+	"github.com/Chandan94f/mb-utility/utility/response"
 	"github.com/gorilla/mux"
 )
 

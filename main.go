@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	prepare "github.com/mb-view/cmd"
+	prepare "github.com/Chandan94f/mb-view/cmd"
 )
 
 func main() {

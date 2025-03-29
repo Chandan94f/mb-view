@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/mb-view/internal/dao"
-	"github.com/mb-view/internal/models"
+	"github.com/Chandan94f/mb-view/internal/dao"
+	"github.com/Chandan94f/mb-view/internal/models"
 )
 
 type Service interface {

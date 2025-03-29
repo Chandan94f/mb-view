@@ -1,9 +1,11 @@
 package controller
 
 import (
-	"github.com/mb-view/internal/dao"
-	"github.com/mb-view/internal/service"
-	"github.com/mb-view/internal/utility/response"
+	"github.com/Chandan94f/mb-view/internal/dao"
+	"github.com/Chandan94f/mb-view/internal/service"
+
+	// "github.com/Chandan94f/mb-view/internal/utility/response"
+	"github.com/Chandan94f/mb-utility/utility/response"
 )
 
 type Controller struct {
